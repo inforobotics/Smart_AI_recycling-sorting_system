@@ -1,1 +1,1 @@
-# Smart-AI-recycling-sorting-system
+# Smart AI Recycling-Sorting system
